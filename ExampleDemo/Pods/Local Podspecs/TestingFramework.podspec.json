@@ -1,0 +1,21 @@
+{
+  "name": "TestingFramework",
+  "version": "1.0.0",
+  "summary": "A TestingFramework is amazing.",
+  "description": "This is one of the amazing framework which is used for just testing purposes.",
+  "homepage": "https://github.com/anoopkr207/TestingFramework",
+  "license": "MIT",
+  "authors": {
+    "Anoop Kumar": "anoop.kumar@unthinkable.co"
+  },
+  "platforms": {
+    "ios": "9.1"
+  },
+  "source": {
+    "git": "https://github.com/anoopkr207/TestingFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "TestingFramework/TestingFramework/*.swift",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

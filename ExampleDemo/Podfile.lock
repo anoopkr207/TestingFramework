@@ -1,0 +1,16 @@
+PODS:
+  - TestingFramework (1.0.0)
+
+DEPENDENCIES:
+  - TestingFramework (from `../TestingFramework/`)
+
+EXTERNAL SOURCES:
+  TestingFramework:
+    :path: "../TestingFramework/"
+
+SPEC CHECKSUMS:
+  TestingFramework: 2f8815a9df7c0419cb2ee4f99a7241ab7091dadc
+
+PODFILE CHECKSUM: 737c5b458e5fd9fe73b2b6a5236e469336d2a62e
+
+COCOAPODS: 1.10.0
