@@ -6,13 +6,14 @@
 //
 
 import UIKit
-//import TestingFramework
+import TestingFramework
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        Service.doSomething()
+        let myString = Service.doSomething()
+        print(myString)
         // Do any additional setup after loading the view.
     }
 

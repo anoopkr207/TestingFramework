@@ -2,15 +2,21 @@ PODS:
   - TestingFramework (1.0.0)
 
 DEPENDENCIES:
-  - TestingFramework (from `../TestingFramework/`)
+  - TestingFramework (from `https://github.com/anoopkr207/TestingFramework.git`, branch `main`)
 
 EXTERNAL SOURCES:
   TestingFramework:
-    :path: "../TestingFramework/"
+    :branch: main
+    :git: https://github.com/anoopkr207/TestingFramework.git
+
+CHECKOUT OPTIONS:
+  TestingFramework:
+    :commit: 6c93e6b951f53035a3503766a056a4a8de1a5e2f
+    :git: https://github.com/anoopkr207/TestingFramework.git
 
 SPEC CHECKSUMS:
-  TestingFramework: 2f8815a9df7c0419cb2ee4f99a7241ab7091dadc
+  TestingFramework: 341f41c68b7209bedb5aba9c09c0b59f111d93e8
 
-PODFILE CHECKSUM: 737c5b458e5fd9fe73b2b6a5236e469336d2a62e
+PODFILE CHECKSUM: a1358dbc806ffe5fb277232c8c68d283f631777f
 
 COCOAPODS: 1.10.0

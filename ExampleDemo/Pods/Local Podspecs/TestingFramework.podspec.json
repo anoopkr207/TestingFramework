@@ -13,6 +13,7 @@
   },
   "source": {
     "git": "https://github.com/anoopkr207/TestingFramework.git",
+    "branch": "main",
     "tag": "1.0.0"
   },
   "source_files": "TestingFramework/TestingFramework/*.swift",
